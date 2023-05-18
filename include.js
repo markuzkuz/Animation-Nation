@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Simpson',
+    pageLink: './Art/Joy/markuz/index.html',
+    imageLink: './Art/Joy/markuz/simpson.gif',
+    author: 'Markuzkuz',
+    githubLink: 'https://github.com/markuzkuz'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
